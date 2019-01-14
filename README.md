@@ -27,6 +27,9 @@
  - [Sidekiq example complete (local and deploy to heroku)](https://itnext.io/sidekiq-overview-and-how-to-deploy-it-to-heroku-b8811fea9347)
  - [Tutorial: how to display coverage and build badge with simplecov and codeclimate at github ruby projects](https://medium.com/the-code-review/display-your-ruby-test-coverage-using-simplecov-gem-and-codeclimate-6db6336fe409)
  
+**Mix and Go**
+ - [The best explanation about class attributes in ruby](https://mixandgo.com/learn/ruby_attr_accessor_attr_reader_attr_writer)
+ 
 **Ruby Learning**
  - [Old post about exceptions but it's a really good to exaplain the basic about it, and also has good examples](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 
