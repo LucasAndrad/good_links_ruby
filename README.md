@@ -30,6 +30,9 @@
 **Mix and Go**
  - [The best explanation about class attributes in ruby](https://mixandgo.com/learn/ruby_attr_accessor_attr_reader_attr_writer)
  
+**Pdabrowski**
+ - [Great resume about ruby Struct and Class](http://pdabrowski.com/blog/ruby/ruby-struct/?fbclid=IwAR1Dk0um0VCrdjrRFExMxb0WRjHl7AzFiZvzBnRdiVGbj5ZXIVa0O80Rnfo)
+ 
 **Ruby Learning**
  - [Old post about exceptions but it's a really good to exaplain the basic about it, and also has good examples](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 
