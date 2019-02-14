@@ -29,6 +29,7 @@
  
 **Mix and Go**
  - [The best explanation about class attributes in ruby](https://mixandgo.com/learn/ruby_attr_accessor_attr_reader_attr_writer)
+ - [Nice and simple explanation about map function](https://mixandgo.com/learn/how-to-use-the-ruby-map-method)
  
 **O Riley**
  - [Everything about Namespaces and modules](https://www.oreilly.com/learning/ruby-cookbook-modules-and-namespaces) OBS: _I need to finish reading_
