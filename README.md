@@ -36,7 +36,10 @@
  
 **Pdabrowski**
  - [Great resume about ruby Struct and Class](http://pdabrowski.com/blog/ruby/ruby-struct/?fbclid=IwAR1Dk0um0VCrdjrRFExMxb0WRjHl7AzFiZvzBnRdiVGbj5ZXIVa0O80Rnfo)
- 
+
+**Ruby Guides**
+ - [Awesome article about rake command, and how to create your own rake commands](https://www.rubyguides.com/2019/02/ruby-rake/?fbclid=IwAR1OkRv99Rm8c9iTCjLY_Lz0QccpEQp1lXzjZw20z0G94zHehLkY9puaAcs)
+
 **Ruby Learning**
  - [Old post about exceptions but it's a really good to exaplain the basic about it, and also has good examples](http://rubylearning.com/satishtalim/ruby_exceptions.html)
 
