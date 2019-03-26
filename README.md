@@ -20,6 +20,7 @@
  - [Improve Rails performance with gems](https://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 
 **Medium**
+ - [Everything is an object in ruby, good post to explain that](https://medium.com/@pk60905/everything-is-object-in-ruby-559475ce71dd)
  - [How to write good Rspec tests, with understandable and readable 'its' and describes](https://medium.com/devnetwork/step-by-step-guide-to-write-rspec-that-is-understandable-and-readable-30279b04dd43)
  - [Modules, include vs extend vs prepend](https://medium.com/@leo_hetsch/ruby-modules-include-vs-prepend-vs-extend-f09837a5b073)
  - [Rails Routes - Using resources and records to define URL's](https://medium.freecodecamp.org/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a)
