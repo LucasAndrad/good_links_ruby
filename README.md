@@ -49,3 +49,6 @@
  
  **Viking School**
   - [Best practices for working with classes](https://www.vikingcodeschool.com/professional-development-with-ruby/best-practices-for-working-with-classes)
+  
+**Zhu wu**
+  - [Nice post about require and require tree . at application.js rails file](http://www.zhuwu.me/blog/posts/sprocket-difference-between-require-and-require-tree)
