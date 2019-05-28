@@ -9,18 +9,18 @@
 **Github**
  - [Tips to write good Rspec tests following the best practices](https://github.com/abinoda/rspec-best-practices)
  - [When you should use DateTime and when use Time](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
-
-**LaunchSchool**
- - [Nice post about class, modules and inheritance, the examples here are awesome!](https://launchschool.com/books/oo_ruby/read/inheritance)
-
-**Jumpstartlab**
- - [Tutorial about models and modules](http://tutorials.jumpstartlab.com/topics/models/modules.html)
- 
- **Marian Posaceanu**
- - [Improve Rails performance with gems](https://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
  
  **Kolosek**
  - [Improve rspec performance with build and build_stub](https://kolosek.com/factory-girl-build-vs-build_stub/)
+
+**Jumpstartlab**
+ - [Tutorial about models and modules](http://tutorials.jumpstartlab.com/topics/models/modules.html)
+
+**LaunchSchool**
+ - [Nice post about class, modules and inheritance, the examples here are awesome!](https://launchschool.com/books/oo_ruby/read/inheritance)
+ 
+ **Marian Posaceanu**
+ - [Improve Rails performance with gems](https://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
 
 **Medium**
  - [Everything is an object in ruby, good post to explain that](https://medium.com/@pk60905/everything-is-object-in-ruby-559475ce71dd)
