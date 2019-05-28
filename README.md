@@ -18,6 +18,9 @@
  
  **Marian Posaceanu**
  - [Improve Rails performance with gems](https://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems)
+ 
+ **Kolosek**
+ - [Improve rspec performance with build and build_stub](https://kolosek.com/factory-girl-build-vs-build_stub/)
 
 **Medium**
  - [Everything is an object in ruby, good post to explain that](https://medium.com/@pk60905/everything-is-object-in-ruby-559475ce71dd)
