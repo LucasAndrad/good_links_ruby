@@ -9,12 +9,12 @@
 **Github**
  - [Tips to write good Rspec tests following the best practices](https://github.com/abinoda/rspec-best-practices)
  - [When you should use DateTime and when use Time](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
- 
- **Kolosek**
- - [Improve rspec performance with build and build_stub](https://kolosek.com/factory-girl-build-vs-build_stub/)
 
 **Jumpstartlab**
  - [Tutorial about models and modules](http://tutorials.jumpstartlab.com/topics/models/modules.html)
+ 
+ **Kolosek**
+ - [Improve rspec performance with build and build_stub](https://kolosek.com/factory-girl-build-vs-build_stub/)
 
 **LaunchSchool**
  - [Nice post about class, modules and inheritance, the examples here are awesome!](https://launchschool.com/books/oo_ruby/read/inheritance)
